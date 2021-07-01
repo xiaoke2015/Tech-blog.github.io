@@ -4,10 +4,10 @@
 #### [WWDC 21]()
 @Parisfal WWDC 21 圆满结束
 
-### 总结
-#### [IAP(in-app-purchase)](./IAP.md)
-#### [universalLink](./universalLink.md)
-
 ### 文章
+
+#### [IAP(in-app-purchase) 内购防掉签方案](./Resources/IAP.md)
+#### [universalLink 配置](./Resources/universalLink.md)
+#### [Git 命令详解](./Resources/Git.md)
 
 
